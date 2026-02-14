@@ -5,6 +5,7 @@ This project classifies plant diseases into pathogen categories using Deep Learn
 ### 📊 Dataset
 
 * PlantVillage Dataset (Colored images)
+* Source: https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
 * Mapped diseases to pathogen types:
 
   * Bacteria

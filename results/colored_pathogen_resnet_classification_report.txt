@@ -1,0 +1,11 @@
+              precision    recall  f1-score   support
+
+    Bacteria       0.62      0.52      0.57      1093
+      Fungus       0.47      0.73      0.57      1747
+         Nan       0.62      0.65      0.63      1508
+    Oomycete       0.00      0.00      0.00       291
+       Virus       0.00      0.00      0.00       573
+
+    accuracy                           0.54      5212
+   macro avg       0.34      0.38      0.35      5212
+weighted avg       0.47      0.54      0.49      5212

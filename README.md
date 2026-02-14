@@ -2,6 +2,11 @@
 
 This project classifies plant diseases into pathogen categories using Deep Learning models.
 
+## 🎥 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/gLk8t4FylC0/0.jpg)](https://www.youtube.com/watch?v=gLk8t4FylC0)
+
+
 ### 📊 Dataset
 
 * PlantVillage Dataset (Colored images)

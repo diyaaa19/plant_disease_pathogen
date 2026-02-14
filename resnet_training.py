@@ -118,3 +118,4 @@ print(f" Test Accuracy: {test_acc:.4f}")
 
 model.save("colored_pathogen_resnet_classifier.h5")
 print("Model saved as colored_pathogen_resnet_classifier.h5")
+

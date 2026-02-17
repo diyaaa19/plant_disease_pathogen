@@ -5,7 +5,7 @@ This project classifies plant diseases into pathogen categories using Deep Learn
 ## 🎥 Demo Video
 
 [![Watch the demo](https://img.youtube.com/vi/gLk8t4FylC0/0.jpg)](https://www.youtube.com/watch?v=gLk8t4FylC0)
-
+[![Watch the demo](https://img.youtube.com/vi/TGYKZpOhlY4/0.jpg)](https://www.youtube.com/watch?v=TGYKZpOhlY4)
 
 ### 📊 Dataset
 
